@@ -1,0 +1,82 @@
+
+     Group7 Process Flow [Hikmet, Tylor, Abish, Ana]
+----|------------------------------------------------------------------|----------
+1.  |Github working directory created.                                 |Hikmet
+    |https://github.com/Group7-Project1                                |
+    |                                                                  |
+----|------------------------------------------------------------------|----------
+
+----|------------------------------------------------------------------|----------
+4.  |Clone "Project1" from github                                      |All 
+    |User1@LAPTOP-U334M7V1 MINGW64 ~/documents                         |
+    |$ git clone https://github.com/HikmetYigit34/Group7-Project1.git  |Only once
+    |                                                                  |
+----|------------------------------------------------------------------|----------
+5.  |Check your local directory                                        |All 
+    |~/documents/Group7/Project1                                       |Members
+    |                                                                  |Only once
+    |                                                                  |
+----|------------------------------------------------------------------|----------
+
+     We have main branch now
+     
+     $ cd group7
+     User1@LAPTOP-U334M7V1 MINGW64 ~/documents/group7 (main)
+
+     $ ls
+     Project1/  README.md
+     User1@LAPTOP-U334M7V1 MINGW64 ~/documents/group7 (main)
+
+
+
+----|------------------------------------------------------------------|----------
+6.  |Make changes on Github main branch                                |Hikmet
+    |Create a file on local directory, or modify a file                |
+    |~/documents/Group7/Project1/process flow.txt                      |
+    |                                                                  |
+----|------------------------------------------------------------------|----------
+7.  |User1@LAPTOP-U334M7V1 MINGW64 ~/documents/Group7/Project1 (main)  |Hikmet
+    |$ git add .                                                       | 
+    |$ git commit -m "This is Hikmet's commit"                         |
+    |$ git push origin main                                            |
+    |                                                                  |
+
+
+
+----|------------------------------------------------------------------|----------
+8.  |Create a new branch                                               |All
+    |User1@LAPTOP-U334M7V1 MINGW64 ~/documents/Group7/Project1         |Members
+    |$ git add .                                                       | 
+    |$ git checkout -b "Hikmet" [YOUR NAME]                            |
+    |$ git push origin Hikmet                                          |
+    |                                                                  |
+----|------------------------------------------------------------------|----------
+
+     You have your branch now
+     User1@LAPTOP-U334M7V1 MINGW64 ~/documents/Group7
+     $ cd Project1
+     User1@LAPTOP-U334M7V1 MINGW64 ~/documents/Group7/Project1 (Hikmet)
+
+----|------------------------------------------------------------------|----------
+9.  |Modify your branch                                                |All
+    |User1@LAPTOP-U334M7V1 MINGW64 ~/documents/Group7/Project1 (Hikmet)|Members
+    |$ git add .                                                       | 
+    |$ git commit -m "Hikmet" [YOUR NAME]                              |
+    |$ git push origin Hikmet                                          |
+    |                                                                  |
+----|------------------------------------------------------------------|----------
+
+     Everyone will work on his/her branch
+     User1@LAPTOP-U334M7V1 MINGW64 ~/documents/Group7
+     $ cd Project1
+     User1@LAPTOP-U334M7V1 MINGW64 ~/documents/Group7/Project1 (Hikmet)
+
+----|------------------------------------------------------------------|----------
+9.  |Merge branches to main                                            |Hikmet
+    |User1@LAPTOP-U334M7V1 MINGW64 ~/documents/Group7/Project1 (main)  |
+    |                                                                  |
+    |???                                                               |
+    |                                                                  |
+----|------------------------------------------------------------------|----------
+
+Note: This is initial file we will modify as requied down the road.
