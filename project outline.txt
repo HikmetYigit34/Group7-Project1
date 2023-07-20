@@ -1,8 +1,9 @@
 Group7-Project1 Outline
 
 
-Title: How Toronto Weather Will Look Like in the enxr 10 years
-	and Wildfires connection with weather
+Title: 	
+	How Toronto Weather Will Look Like in the next 10 years
+	and Wildfire connection to weather conditions
 
 
 Description:
@@ -15,7 +16,7 @@ Description:
 	Fires
 	Collect last 10 year of fire data (will search)
 
-Breakdown tasks
+Breakdown tasks:
 	As starting point please make files whatever you found, upload it to github project repo,
 	We will discuss in a few days, after everyone see each-others files on repo
 
