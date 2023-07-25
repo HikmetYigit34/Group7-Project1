@@ -8,6 +8,6 @@ Group7 Members: Hikmet, Tyler, Abish, Ana
 - Jupyter Notebook file is the main file of the Project, "TorontoWeatherProjection.ipynb"
 
 - To view Presentation:
-    Download "output_data" folder completely, (with all files i it)
+    Download "output_data" folder completely, (with all files in it)
 	Then double-click "Toronto Weather and Fire Analysis.html", it will open in your default web browser.
 
