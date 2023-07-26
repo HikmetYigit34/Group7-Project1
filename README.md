@@ -1,5 +1,3 @@
-# Group7-Project1
-
 <h1>Group7-Project1</h1>
 
 <h2>Our Team</h2>
