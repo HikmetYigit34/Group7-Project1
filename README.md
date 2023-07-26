@@ -2,8 +2,6 @@
 
 <h2>Our Team</h2>
 <ul>
-
-
 <table style="border-collapse:collapse; border:0px">
 <tr>
 <td align="center"><img src="output_data/team/hikmet.png" width="100px"  /><br>Hikmet</td>
@@ -12,10 +10,7 @@
 <td align="center"><img src="output_data/team/ana.png"    width="100px"  /><br>Ana</td>
 </tr>
 </table>
-
-
 </ul>
-
 
 <h2>Project</h2>
 <ul>
@@ -36,11 +31,8 @@
 <li>The biggest factor is when people at home cooking!</li>
 </ul>
 
-
 <h2>Presentation (in HTML format)</h2> 
 <ul>
 <li>Download "output_data" folder completely, (with all files in it)
 Then double-click "Toronto Weather and Fire Analysis.html", it will open in your default web browser.</li>
 </ul>
-
-<iframe src="Toronto Weather and Fire Analysis.html" title="group7-project1"></iframe>
