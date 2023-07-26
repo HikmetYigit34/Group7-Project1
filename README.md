@@ -2,7 +2,9 @@
 Group7 Members: Hikmet, Tyler, Abish, Ana
 
 <h1>Project</h1>
+<ul>
 <li>Jupyter Notebook file is the main file of the Project, "TorontoWeatherProjection.ipynb"</li>
+</ul>
 
 <h1>What we have planned</h1>
 <ul>
@@ -20,6 +22,7 @@ Group7 Members: Hikmet, Tyler, Abish, Ana
 
 
 <h1>To view Presentation</h1>
-    Download "output_data" folder completely, (with all files in it)
-	Then double-click "Toronto Weather and Fire Analysis.html", it will open in your default web browser.
-
+<ul>
+<li>Download "output_data" folder completely, (with all files in it)
+Then double-click "Toronto Weather and Fire Analysis.html", it will open in your default web browser.</li>
+</ul>
