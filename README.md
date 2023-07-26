@@ -1,19 +1,19 @@
 # Group7-Project1
 Group7 Members: Hikmet, Tyler, Abish, Ana
 
-<h1>Project</h1>
+<h2>Project</h2>
 <ul>
 <li>Jupyter Notebook file is the main file of the Project, "TorontoWeatherProjection.ipynb"</li>
 </ul>
 
-<h1>What we have planned</h1>
+<h2>What we have planned</h2>
 <ul>
 <li>Review Toronto maximum temperatures in the last 10 years, check if increasing steadily,</li>
 <li>Review Toronto fire incident counts within the same period of time , check if increasing steadily,</li>
 <li>Try to correlate if there is a significant relation between max temp increase and fire incident increase.</li>
 </ul>
 
-<h1>What we have concluded</h1>
+<h2>What we have concluded</h2>
 <ul>
 <li>Weather temperature increasing slightly over the years, 0.15C per year.</li>
 <li>But number of fires depending on some other factors, weather temperature is a very small contributor, even negligible.</li>
