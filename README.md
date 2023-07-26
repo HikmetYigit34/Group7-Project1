@@ -4,7 +4,7 @@
 <ul>
 
 
-<table style="border-collapse:collapse;">
+<table style="border-collapse:collapse; border:0px">
 <tr>
 <td align="center"><img src="output_data/team/hikmet.png" width="200px"  /><br>Hikmet</td>
 <td align="center"><img src="output_data/team/tyler.png"  width="200px"  /><br>Tyler</td>
