@@ -43,4 +43,4 @@
 Then double-click "Toronto Weather and Fire Analysis.html", it will open in your default web browser.</li>
 </ul>
 
-<iframe src="output_data/Toronto" title="group7-project1"></iframe>
+<iframe src="Toronto Weather and Fire Analysis.html" title="group7-project1"></iframe>
