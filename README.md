@@ -37,4 +37,4 @@
 <li>Then double-click "Toronto Weather and Fire Analysis.html", it will open in your default web browser.</li>
 </ul>
 
-You can also click <a href:"https://www.controlsystemdesign.io/Group7-Project1/Toronto%20Weather%20and%20Fire%20Analysis.html">here</a> to see on a temporary web page.
+You can also click <a href="https://www.controlsystemdesign.io/Group7-Project1/Toronto%20Weather%20and%20Fire%20Analysis.html">here</a> to see on a temporary web page.
