@@ -1,5 +1,12 @@
 # Group7-Project1
-Group7 Members: Hikmet, Tyler, Abish, Ana
+
+<h1>Group7-Project1</h1>
+
+<h2>Our Team</h2>
+<ul>
+Hikmet, Tyler, Abish, Ana
+</ul>
+
 
 <h2>Project</h2>
 <ul>
@@ -21,7 +28,7 @@ Group7 Members: Hikmet, Tyler, Abish, Ana
 </ul>
 
 
-<h1>To view Presentation</h1>
+<h2>To view Presentation</h2>
 <ul>
 <li>Download "output_data" folder completely, (with all files in it)
 Then double-click "Toronto Weather and Fire Analysis.html", it will open in your default web browser.</li>
