@@ -6,10 +6,10 @@
 
 <table style="border-collapse:collapse; border:0px">
 <tr>
-<td align="center"><img src="output_data/team/hikmet.png" width="200px"  /><br>Hikmet</td>
-<td align="center"><img src="output_data/team/tyler.png"  width="200px"  /><br>Tyler</td>
-<td align="center"><img src="output_data/team/abish.png"  width="200px"  /><br>Abish</td>
-<td align="center"><img src="output_data/team/ana.png"    width="200px"  /><br>Ana</td>
+<td align="center"><img src="output_data/team/hikmet.png" width="100px"  /><br>Hikmet</td>
+<td align="center"><img src="output_data/team/tyler.png"  width="100px"  /><br>Tyler</td>
+<td align="center"><img src="output_data/team/abish.png"  width="100px"  /><br>Abish</td>
+<td align="center"><img src="output_data/team/ana.png"    width="100px"  /><br>Ana</td>
 </tr>
 </table>
 
