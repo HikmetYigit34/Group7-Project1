@@ -26,7 +26,7 @@ Hikmet, Tyler, Abish, Ana
 </ul>
 
 
-<h2>To view Presentation</h2>
+<h2>To view Presentation</h2> (in HTML format)
 <ul>
 <li>Download "output_data" folder completely, (with all files in it)
 Then double-click "Toronto Weather and Fire Analysis.html", it will open in your default web browser.</li>
