@@ -2,7 +2,18 @@
 
 <h2>Our Team</h2>
 <ul>
-Hikmet, Tyler, Abish, Ana
+
+
+<table style="border-collapse:collapse;">
+<tr>
+<td align="center"><img src="output_data/team/hikmet.png" width="200px"  /><br>Hikmet</td>
+<td align="center"><img src="output_data/team/tyler.png"  width="200px"  /><br>Tyler</td>
+<td align="center"><img src="output_data/team/abish.png"  width="200px"  /><br>Abish</td>
+<td align="center"><img src="output_data/team/ana.png"    width="200px"  /><br>Ana</td>
+</tr>
+</table>
+
+
 </ul>
 
 
