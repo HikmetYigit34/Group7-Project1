@@ -28,7 +28,7 @@
 <ul>
 <li>Weather temperature increasing slightly over the years, 0.15C per year.</li>
 <li>But number of fires depending on some other factors, weather temperature is a very small contributor, even negligible.</li>
-<li>The biggest factor is when people at home cooking!</li>
+<li>The biggest factor is when people at home cooking, and the most possible cause is unattendance!</li>
 </ul>
 
 <h2>Presentation (in HTML format)</h2> 
